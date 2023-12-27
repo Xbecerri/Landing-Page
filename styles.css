@@ -1,0 +1,55 @@
+.section1 {
+    background-color: #1F2937 ;
+    margin: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+body{
+    margin: 0px;
+}
+
+#HeroMainText {
+    font-size: 48px;
+    font-weight: extra-bold; /*look back */
+    color: #F9FAF8;
+    margin-bottom: 0px;
+}
+
+.headlinks {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1%;
+    flex: 1;
+
+}
+#headerlinktext {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top:  0px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    justify-content: left;
+    display: flex;
+
+
+}
+
+#calltoaction {
+    font-size: 24px;
+    background-color: #3882F6;
+}
+
+.signup {
+
+}
+
+.image {
+    justify-content: left;
+    display: flex;
+}
