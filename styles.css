@@ -1,8 +1,12 @@
 .section1 {
     background-color: #1F2937 ;
-    margin: 0px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-right: 200px;;
+    padding-left: 200px;
+    padding-bottom: 70px;
+}
+
+.header {
+    display: flex;
 }
 
 body{
@@ -11,9 +15,10 @@ body{
 
 #HeroMainText {
     font-size: 48px;
-    font-weight: extra-bold; /*look back */
+    font-weight: bolder;
     color: #F9FAF8;
     margin-bottom: 0px;
+    justify-content: flex-start;
 }
 
 .headlinks {
@@ -21,7 +26,7 @@ body{
     color: #E5E7EB;
     display: flex;
     justify-content: flex-end;
-    gap: 1%;
+    gap: 3%;
     flex: 1;
 
 }
@@ -36,20 +41,43 @@ body{
     color: #F9FAF8;
     justify-content: left;
     display: flex;
-
-
 }
 
 #calltoaction {
-    font-size: 24px;
+    font-size: 18px;
     background-color: #3882F6;
+    color: #F9FAF8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 20px;;
+
 }
 
-.signup {
 
+
+.inner1{
+    display: flex;
+    margin-top: 30px;
+    color: #E5E7EB;
 }
 
 .image {
-    justify-content: left;
+    background-color: grey;
+    padding: 25px;
     display: flex;
+    justify-content: right;
+    margin-top: 50px;;
+    margin-left: 150px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-right: 200px;
+    padding-left: 200px;
+
+
+
+
 }
