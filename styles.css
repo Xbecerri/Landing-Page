@@ -188,3 +188,14 @@ body{
     margin-left: 40px;
 }
 
+footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
